@@ -47,6 +47,10 @@ blockquote {
 }
 #resume {
     margin: 0 auto;
+    width: 100%;
+}
+.resume-wrapper {
+    margin: 0 auto;
     max-width: 935px;
 }
 section {
