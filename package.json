@@ -1,0 +1,17 @@
+{
+  "name": "jsonresume-theme-direct",
+  "version": "0.1.0",
+  "description": "A simple yet elegant theme for JSON Resume",
+  "author": "Martin Rancourt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrancourt/jsonresume-theme-direct"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "flexboxgrid": "^6.3.0",
+    "handlebars": "^2.0.0-alpha.4",
+    "moment": "^2.11.2",
+    "underscore": "^1.8.3"
+  }
+}
